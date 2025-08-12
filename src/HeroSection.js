@@ -10,7 +10,6 @@ export default function HeroSection() {
       <div className="video-background">
         <iframe
           src={embedUrl}
-          frameBorder="0"
           allow="autoplay; fullscreen"
           allowFullScreen
           title="Background Video"
