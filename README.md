@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Contribution Guide
+
+### How to Collaborate Using Branches and Pull Requests
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/spdinesh37/grace_app.git
+   cd grace_app
